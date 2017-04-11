@@ -1,0 +1,8 @@
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\bin\Debug\Siralama.exe
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.Form1.resources
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.Properties.Resources.resources
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.csproj.GenerateResource.Cache
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.exe
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.pdb
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\bin\Debug\Siralama.pdb
+C:\Users\MONSTER\Desktop\Kelime Siralama\Siralama\Siralama\obj\Debug\Siralama.csprojResolveAssemblyReference.cache
