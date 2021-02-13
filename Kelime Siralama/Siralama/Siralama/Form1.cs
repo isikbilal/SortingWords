@@ -1,4 +1,4 @@
-﻿using System;
+        ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -22,7 +22,7 @@ namespace Siralama
         {
             
         }
-
+        //HASAN WAS HERE
         private void button1_Click(object sender, EventArgs e)
         {
             string[] kelimeler = textBox1.Text.Split(' ');
